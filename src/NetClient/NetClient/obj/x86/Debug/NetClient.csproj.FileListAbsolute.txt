@@ -1,0 +1,15 @@
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\NetClient.exe
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\NetClient.pdb
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\obj\x86\Debug\NetClient.Client.resources
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\obj\x86\Debug\NetClient.Properties.Resources.resources
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\obj\x86\Debug\NetClient.exe
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\obj\x86\Debug\NetClient.pdb
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\AForge.Controls.dll
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\AForge.Video.DirectShow.dll
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\AForge.Video.dll
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\AForge.dll
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\AForge.Imaging.dll
+F:\Dev\Net\CSharp\MAContr\Child\NetClient\NetClient\bin\Debug\AForge.Math.dll
